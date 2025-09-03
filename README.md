@@ -11,6 +11,14 @@
 "Часть 3. Git репозиторий" — простые действия с git репозиторием
 
 
+
+|№ Занятия|Дата|Тема|Семинар в colab|ЛР в colab|
+|:-:|:-:|:-:|:-:|:-:|
+|1|06.09.24|Знакомство с языком, основными конструкциями и базовыми типами. Установка Python и запуск первой программы в различных средах.|[Семинар](https://colab.research.google.com/drive/1389u3tP9qGEWUpJI9Q27UVTKwIUpzZu_?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1kMw3ESGhGvyyUsv2SVc1ZzVONdmQUpJQ?usp=sharing)|
+
+
+[Журнал](https://docs.google.com/spreadsheets/d/15FDoFwccW_mwGxgxNSoFrq1nnM1eCHA-_nI3QvAVA14/edit?usp=sharing)
+
 Полезные ресурсы:
 
 1. [Как работать с git - целый курс](https://webdevkin.ru/courses/git/start)
