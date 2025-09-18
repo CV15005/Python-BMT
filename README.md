@@ -11,10 +11,11 @@
 "Часть 3. [Git-репозиторий](https://github.com/CV15005/Python-BMT/wiki/%D0%A7%D0%B0%D1%81%D1%82%D1%8C-3.-Git%E2%80%90%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9)" — простые действия с git репозиторием
 
 
-| № Занятия |Дата|Тема|Семинар в colab|ЛР в colab|
-|:---------:|:-:|:-:|:-:|:-:|
-|     1     |06.09.25|Знакомство с языком, основными конструкциями и базовыми типами. Установка Python и запуск первой программы в различных средах.|[Семинар](https://colab.research.google.com/drive/1389u3tP9qGEWUpJI9Q27UVTKwIUpzZu_?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1kMw3ESGhGvyyUsv2SVc1ZzVONdmQUpJQ?usp=sharing)|
-|     2     |13.09.25|Циклы в программировании. Оператор *for*, *while*. Строки. Списки. Функция *range*.Условные конструкции. Конструкция if-else, *elif*.|[Семинар](https://colab.research.google.com/drive/11Kfzl1sMkUlenoKikbyWqt3GEnsAT1u3?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1x-YRcSYGe1PaVCBrJ8jjYJfWpnpuYQIL?usp=sharing)|
+| № Занятия |   Дата   |Тема|Семинар в colab|ЛР в colab|
+|:---------:|:--------:|:-:|:-:|:-:|
+|     1     | 06.09.25 |Знакомство с языком, основными конструкциями и базовыми типами. Установка Python и запуск первой программы в различных средах.|[Семинар](https://colab.research.google.com/drive/1389u3tP9qGEWUpJI9Q27UVTKwIUpzZu_?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1kMw3ESGhGvyyUsv2SVc1ZzVONdmQUpJQ?usp=sharing)|
+|     2     | 13.09.25 |Циклы в программировании. Оператор *for*, *while*. Строки. Списки. Функция *range*.Условные конструкции. Конструкция if-else, *elif*.|[Семинар](https://colab.research.google.com/drive/11Kfzl1sMkUlenoKikbyWqt3GEnsAT1u3?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1x-YRcSYGe1PaVCBrJ8jjYJfWpnpuYQIL?usp=sharing)|
+|     3     | 20.09.25 |Функции. Локальные и глобальные переменные. Возврат значения из функции. Оператор return. Параметры и аргументы функции. Локальные и глобальные переменные. Передача аргументов. Строки. Списки. Кортежи. Множества.|[Семинар](https://colab.research.google.com/drive/1hcj_87GplzGilXIyA8MoPbLjwZ3VmO6s?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1h9Qy7LA3qoQfEz_srLEpRL9HLpbM9I3M?usp=sharing)|
 
 
 
