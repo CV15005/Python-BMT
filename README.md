@@ -17,6 +17,7 @@
 |     2     | 13.09.25 |Циклы в программировании. Оператор *for*, *while*. Строки. Списки. Функция *range*.Условные конструкции. Конструкция if-else, *elif*.|[Семинар](https://colab.research.google.com/drive/11Kfzl1sMkUlenoKikbyWqt3GEnsAT1u3?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1x-YRcSYGe1PaVCBrJ8jjYJfWpnpuYQIL?usp=sharing)|
 |     3     | 20.09.25 |Функции. Локальные и глобальные переменные. Возврат значения из функции. Оператор return. Параметры и аргументы функции. Локальные и глобальные переменные. Передача аргументов. Строки. Списки. Кортежи. Множества.|[Семинар](https://colab.research.google.com/drive/1hcj_87GplzGilXIyA8MoPbLjwZ3VmO6s?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1h9Qy7LA3qoQfEz_srLEpRL9HLpbM9I3M?usp=sharing)|
 |     4     | 27.09.25 |Словари. Работа с файлами.|[Семинар](https://colab.research.google.com/drive/1uIJgZYPkCVaV7HswplYKm3uHcdlTUEA_?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1m0DrKyta4Djov5j3NKC20HwucAyDTu7a?usp=sharing)|
+|     5     | 04.10.25 |Исключения. Функциональный стиль в Python (на примере map()). Lambda. Итераторы и генераторы. Обзор стандартной библиотеки Python 3 и часто используемых сторонних модулей. Регулярные выражения.|[Семинар](https://colab.research.google.com/drive/1WgCjdEgvgxSFHj4X_KyZ0nDci-x7YI0L?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1xZ1vxIavwqIkqt7D9IF8mxjLiB0V0ANG?usp=sharing)|
 
 
 
