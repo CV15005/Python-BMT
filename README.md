@@ -19,6 +19,7 @@
 |     4     | 27.09.25 |Словари. Работа с файлами.|[Семинар](https://colab.research.google.com/drive/1uIJgZYPkCVaV7HswplYKm3uHcdlTUEA_?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1m0DrKyta4Djov5j3NKC20HwucAyDTu7a?usp=sharing)|
 |     5     | 04.10.25 |Исключения. Функциональный стиль в Python (на примере map()). Lambda. Итераторы и генераторы. Обзор стандартной библиотеки Python 3 и часто используемых сторонних модулей. Регулярные выражения.|[Семинар](https://colab.research.google.com/drive/1WgCjdEgvgxSFHj4X_KyZ0nDci-x7YI0L?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1xZ1vxIavwqIkqt7D9IF8mxjLiB0V0ANG?usp=sharing)|
 |     6     | 11.10.25 |Основные понятия ООП. Инкапсуляция. Классы. Декораторы.|[Семинар](https://colab.research.google.com/drive/1HNBxIgNNOHgiUpcHIrv59uIuuGYq0MQz?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1g67KmKe8brmg1954VgYbi4yJ55UggBJu?usp=sharing)|
+|     7     | 18.10.25 |Основные понятия ООП. Наследование. Полиморфизм.|[Семинар](https://colab.research.google.com/drive/1iMEiFYjgme5S20TlsGkkTwRLeQ7UFBwj?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1qFxQrmboBe6yYtqX0cJSB6rl5sdgHhuq?usp=sharing)|
 
 
 
