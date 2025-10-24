@@ -20,6 +20,7 @@
 |     5     | 04.10.25 |Исключения. Функциональный стиль в Python (на примере map()). Lambda. Итераторы и генераторы. Обзор стандартной библиотеки Python 3 и часто используемых сторонних модулей. Регулярные выражения.|[Семинар](https://colab.research.google.com/drive/1WgCjdEgvgxSFHj4X_KyZ0nDci-x7YI0L?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1xZ1vxIavwqIkqt7D9IF8mxjLiB0V0ANG?usp=sharing)|
 |     6     | 11.10.25 |Основные понятия ООП. Инкапсуляция. Классы. Декораторы.|[Семинар](https://colab.research.google.com/drive/1HNBxIgNNOHgiUpcHIrv59uIuuGYq0MQz?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1g67KmKe8brmg1954VgYbi4yJ55UggBJu?usp=sharing)|
 |     7     | 18.10.25 |Основные понятия ООП. Наследование. Полиморфизм.|[Семинар](https://colab.research.google.com/drive/1iMEiFYjgme5S20TlsGkkTwRLeQ7UFBwj?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1qFxQrmboBe6yYtqX0cJSB6rl5sdgHhuq?usp=sharing)|
+|     8     | 25.10.25 |Pandas. Numpy. Визуализации.|[Семинар](https://colab.research.google.com/drive/16vLle4UPcHCuYI-9bsKJs-6VwNEGCwBu?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1w-IljS7ThA_UAmhE5d0gJNSyawY1dYta?usp=sharing)|
 
 
 
