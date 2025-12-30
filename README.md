@@ -26,6 +26,10 @@
 
 [Журнал](https://docs.google.com/spreadsheets/d/15FDoFwccW_mwGxgxNSoFrq1nnM1eCHA-_nI3QvAVA14/edit?usp=sharing)
 
+[РК1](https://forms.gle/ipSn3jaEmehZdmNF9)
+
+[РК2](https://forms.gle/VdWAcxHZFamxAmQj7)
+
 Полезные ресурсы:
 
 1. [Как работать с git - целый курс](https://webdevkin.ru/courses/git/start)
