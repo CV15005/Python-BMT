@@ -13,22 +13,17 @@
 
 | № Занятия |   Дата   |Тема|Семинар в colab|ЛР в colab|
 |:---------:|:--------:|:-:|:-:|:-:|
-|     1     | 06.09.25 |Знакомство с языком, основными конструкциями и базовыми типами. Установка Python и запуск первой программы в различных средах.|[Семинар](https://colab.research.google.com/drive/1389u3tP9qGEWUpJI9Q27UVTKwIUpzZu_?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1kMw3ESGhGvyyUsv2SVc1ZzVONdmQUpJQ?usp=sharing)|
-|     2     | 13.09.25 |Циклы в программировании. Оператор *for*, *while*. Строки. Списки. Функция *range*.Условные конструкции. Конструкция if-else, *elif*.|[Семинар](https://colab.research.google.com/drive/11Kfzl1sMkUlenoKikbyWqt3GEnsAT1u3?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1x-YRcSYGe1PaVCBrJ8jjYJfWpnpuYQIL?usp=sharing)|
-|     3     | 20.09.25 |Функции. Локальные и глобальные переменные. Возврат значения из функции. Оператор return. Параметры и аргументы функции. Локальные и глобальные переменные. Передача аргументов. Строки. Списки. Кортежи. Множества.|[Семинар](https://colab.research.google.com/drive/1hcj_87GplzGilXIyA8MoPbLjwZ3VmO6s?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1h9Qy7LA3qoQfEz_srLEpRL9HLpbM9I3M?usp=sharing)|
-|     4     | 27.09.25 |Словари. Работа с файлами.|[Семинар](https://colab.research.google.com/drive/1uIJgZYPkCVaV7HswplYKm3uHcdlTUEA_?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1m0DrKyta4Djov5j3NKC20HwucAyDTu7a?usp=sharing)|
-|     5     | 04.10.25 |Исключения. Функциональный стиль в Python (на примере map()). Lambda. Итераторы и генераторы. Обзор стандартной библиотеки Python 3 и часто используемых сторонних модулей. Регулярные выражения.|[Семинар](https://colab.research.google.com/drive/1WgCjdEgvgxSFHj4X_KyZ0nDci-x7YI0L?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1xZ1vxIavwqIkqt7D9IF8mxjLiB0V0ANG?usp=sharing)|
-|     6     | 11.10.25 |Основные понятия ООП. Инкапсуляция. Классы. Декораторы.|[Семинар](https://colab.research.google.com/drive/1HNBxIgNNOHgiUpcHIrv59uIuuGYq0MQz?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1g67KmKe8brmg1954VgYbi4yJ55UggBJu?usp=sharing)|
-|     7     | 18.10.25 |Основные понятия ООП. Наследование. Полиморфизм.|[Семинар](https://colab.research.google.com/drive/1iMEiFYjgme5S20TlsGkkTwRLeQ7UFBwj?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1qFxQrmboBe6yYtqX0cJSB6rl5sdgHhuq?usp=sharing)|
-|     8     | 25.10.25 |Pandas. Numpy. Визуализации.|[Семинар](https://colab.research.google.com/drive/16vLle4UPcHCuYI-9bsKJs-6VwNEGCwBu?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1w-IljS7ThA_UAmhE5d0gJNSyawY1dYta?usp=sharing)|
+|     1     | 05.09.26 |Знакомство с языком, основными конструкциями и базовыми типами. Установка Python и запуск первой программы в различных средах.|[Семинар](https://colab.research.google.com/drive/1389u3tP9qGEWUpJI9Q27UVTKwIUpzZu_?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1kMw3ESGhGvyyUsv2SVc1ZzVONdmQUpJQ?usp=sharing)|
+|     2     | 12.09.26 |Циклы в программировании. Оператор *for*, *while*. Строки. Списки. Функция *range*.Условные конструкции. Конструкция if-else, *elif*.|[Семинар](https://colab.research.google.com/drive/11Kfzl1sMkUlenoKikbyWqt3GEnsAT1u3?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1x-YRcSYGe1PaVCBrJ8jjYJfWpnpuYQIL?usp=sharing)|
+|     3     | 19.09.26 |Функции. Локальные и глобальные переменные. Возврат значения из функции. Оператор return. Параметры и аргументы функции. Локальные и глобальные переменные. Передача аргументов. Строки. Списки. Кортежи. Множества.|[Семинар](https://colab.research.google.com/drive/1hcj_87GplzGilXIyA8MoPbLjwZ3VmO6s?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1h9Qy7LA3qoQfEz_srLEpRL9HLpbM9I3M?usp=sharing)|
+|     4     | 26.09.26 |Словари. Работа с файлами.|[Семинар](https://colab.research.google.com/drive/1uIJgZYPkCVaV7HswplYKm3uHcdlTUEA_?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1m0DrKyta4Djov5j3NKC20HwucAyDTu7a?usp=sharing)|
+|     5     | 03.10.26 |Исключения. Функциональный стиль в Python (на примере map()). Lambda. Итераторы и генераторы. Обзор стандартной библиотеки Python 3 и часто используемых сторонних модулей. Регулярные выражения.|[Семинар](https://colab.research.google.com/drive/1WgCjdEgvgxSFHj4X_KyZ0nDci-x7YI0L?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1xZ1vxIavwqIkqt7D9IF8mxjLiB0V0ANG?usp=sharing)|
+|     6     | 10.10.26 |Основные понятия ООП. Инкапсуляция. Классы. Декораторы.|[Семинар](https://colab.research.google.com/drive/1HNBxIgNNOHgiUpcHIrv59uIuuGYq0MQz?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1g67KmKe8brmg1954VgYbi4yJ55UggBJu?usp=sharing)|
+|     7     | 17.10.26 |Основные понятия ООП. Наследование. Полиморфизм.|[Семинар](https://colab.research.google.com/drive/1iMEiFYjgme5S20TlsGkkTwRLeQ7UFBwj?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1qFxQrmboBe6yYtqX0cJSB6rl5sdgHhuq?usp=sharing)|
+|     8     | 24.10.26 |Pandas. Numpy. Визуализации.|[Семинар](https://colab.research.google.com/drive/16vLle4UPcHCuYI-9bsKJs-6VwNEGCwBu?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1w-IljS7ThA_UAmhE5d0gJNSyawY1dYta?usp=sharing)|
 
 
 
-[Журнал](https://docs.google.com/spreadsheets/d/15FDoFwccW_mwGxgxNSoFrq1nnM1eCHA-_nI3QvAVA14/edit?usp=sharing)
-
-[РК1](https://forms.gle/ipSn3jaEmehZdmNF9)
-
-[РК2](https://forms.gle/VdWAcxHZFamxAmQj7)
 
 Полезные ресурсы:
 
