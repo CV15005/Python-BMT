@@ -23,6 +23,7 @@
 |     8     | 24.10.26 |Pandas. Numpy. Визуализации.|[Семинар](https://colab.research.google.com/drive/16vLle4UPcHCuYI-9bsKJs-6VwNEGCwBu?usp=sharing)|[ЛР](https://colab.research.google.com/drive/1w-IljS7ThA_UAmhE5d0gJNSyawY1dYta?usp=sharing)|
 
 
+[Журнал](https://docs.google.com/spreadsheets/d/1cAgon1RNmZqpejlLurv-WQepQ7wxR-7JP_qxcWKvu70/edit?usp=sharing)
 
 
 Полезные ресурсы:
